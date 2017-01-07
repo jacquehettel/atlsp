@@ -1,0 +1,24 @@
+I. Informant number: ATLSP(INF006)
+
+II. Reel number: 1
+
+III. Student’s Name: Sara Terry 
+
+IV. Date started: 01.12.2012
+
+V. Date finished: 01.12.2012
+
+VI. Actions taken in dealing with the reel.
+
+1. Reel’s features: 48,000 Hz, 24 bit, Mono.
+2. Tempo edited to 66.500 beats per minute
+3. Auto region set up through “Built regions using the current tempo.” Tempo set by 60 measures and 60 beats.
+4. Beep saved as ‘Dial string: 2; ‘Single tone length’: depending on selection (seconds); ‘Break length’: 0.001; ‘Pause length’: 5.000
+5. 00:02:21.312-00:02:21.824 deleted. Beep inserted. Length of beep 00:00:00.512
+6. 00:06:12.309-00:06:13.418 deleted. Beep inserted. Length of beep 00:00:01.109
+7. 00:11:02.357-00:11:02.784 deleted. Beep inserted. Length of beep 00:00:00.426
+8. Regions extracted from ATLSP(INF006)1.wav and saved as .wav files
+8. Files from ATLSP(INF006)1.wav converted into mp3 format 
+9. Folder with .wav files deleted.
+10. Informant: Comfortable
+11. Interview: Conversational
